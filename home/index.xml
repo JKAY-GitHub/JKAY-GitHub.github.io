@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Judy Kay</copyright>
-    <lastBuildDate>Sat, 09 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +1000</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,12 +15,11 @@
     <item>
       <title></title>
       <link>/home/about/</link>
-      <pubDate>Sat, 09 Dec 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/home/about/</guid>
-      <description>I lead the Human Centred Technology Research Cluster. This highly multi-disciplinary group is a priority research area for the Faculty of Engineering and IT.
-My primary research and teaching is in human computer interaction (HCI) and ranges from creating new technology to studies to inform its design and learn about its use.
-My research group, CHAI: Computer Human Adapted Interaction Research Group works on personalisation, particularly for life-long, life-wide learning and novel interfaces.</description>
+      <description>I lead the multi-disciplinary Human Centred Technology Research Cluster at the University of Sydney, Australia.
+My research is in the areas of Artificial Intelligence in Education (AIED), Ubiquitous Computing (Ubicomp) and Human Computer Interaction (HCI). She leads the Human Centred Technology Research Cluster, a large multi-disciplinary group at the University of Sydney. A core focus of her research it to create system that harness personal data for personalisation with user control, based on creating systems and interfaces to enable people to scrutinize their own user model and the personalisation processes based on it.</description>
     </item>
     
     <item>
