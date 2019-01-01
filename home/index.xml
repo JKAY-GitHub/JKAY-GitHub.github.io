@@ -6,7 +6,7 @@
     <description>Recent content in Homes on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Your Name</copyright>
+    <copyright>&amp;copy; 2018 Judy Kay</copyright>
     <lastBuildDate>Sat, 09 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
@@ -75,6 +75,16 @@ My research group, CHAI: Computer Human Adapted Interaction Research Group works
       
       <guid>/home/projects/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/home/teaching/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/home/teaching/</guid>
+      <description>My 2019 teaching at at University of Sydney:
+ DATA3506 - Human-in-the-loop data analytics (New in 2019) COMP5427 - Usability Engineering | CUSP COMP5047 - Pervasive Computing | CUSP  </description>
     </item>
     
     <item>

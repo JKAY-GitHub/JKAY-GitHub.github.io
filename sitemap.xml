@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/projects/deep-learning/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/kay2018_imwut_adherence/</loc>
       <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     </url>
@@ -98,6 +107,16 @@
     
     <url>
     
+      <loc>/projects/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication_types/</loc>
       <lastmod>2014-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -109,6 +128,26 @@
     <url>
     
       <loc>/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/personal-informatics/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/user-modeling/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

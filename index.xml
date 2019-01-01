@@ -6,9 +6,19 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Your Name</copyright>
+    <copyright>&amp;copy; 2018 Judy Kay</copyright>
     <lastBuildDate>Sat, 09 Dec 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lifelong personal data</title>
+      <link>/projects/deep-learning/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/deep-learning/</guid>
+      <description>&lt;p&gt;Long term user modelling with user control based on the Accretion-Resolution representation and user interfaces of the Personis user modelling framework. Key for user control are effective interfaces to large user models, VlUM and SIV (Hewlett Packard Scholarship) support for privacy control&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Defining Adherence: Making Sense of Physical Activity Tracker Data</title>
