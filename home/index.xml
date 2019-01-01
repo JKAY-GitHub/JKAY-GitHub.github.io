@@ -8,7 +8,92 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Your Name</copyright>
     <lastBuildDate>Sat, 09 Dec 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Sat, 09 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>I lead the Human Centred Technology Research Cluster. This highly multi-disciplinary group is a priority research area for the Faculty of Engineering and IT.
+My primary research and teaching is in human computer interaction (HCI) and ranges from creating new technology to studies to inform its design and learn about its use.
+My research group, CHAI: Computer Human Adapted Interaction Research Group works on personalisation, particularly for life-long, life-wide learning and novel interfaces.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Full Publication List</title>
+      <link>/home/pubs/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/home/pubs/</guid>
+      <description>A full list of my publications can be found here.</description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +1000</pubDate>
+      
+      <guid>/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
