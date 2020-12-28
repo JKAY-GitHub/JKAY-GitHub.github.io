@@ -19,7 +19,7 @@
       
       <guid>/home/about/</guid>
       <description>I lead the multi-disciplinary Human Centred Technology Research Cluster at the University of Sydney, Australia.
-My research is in the areas of Artificial Intelligence in Education (AIED), Ubiquitous Computing (Ubicomp) and Human Computer Interaction (HCI). A core focus of my research is to create system that enable people to harness their personal data for lifelong and lide-wide learning. This means creating systems and interfaces that for user modelling that enables people to scrutinize their model and the personalisation processes based on it.</description>
+My research is in the areas of Artificial Intelligence in Education (AIED), Ubiquitous Computing (Ubicomp) and Human Computer Interaction (HCI). A core focus of my work has been to create system that enable people to harness their personal data for lifelong and lide-wide learning. This means creating systems and interfaces that for user models so thay people can scrutinize their model and its use.</description>
     </item>
     
     <item>
@@ -41,6 +41,17 @@ My research is in the areas of Artificial Intelligence in Education (AIED), Ubiq
     </item>
     
     <item>
+      <title>Recent News Posts</title>
+      <link>/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/posts/</guid>
+      <description> Nov 2018: 2018 ACM Distinguished Member, For Outstanding Scientific Contributions to Computing
+ 2018: Cruiser Interactive moves to Barangaroo
+  </description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
@@ -52,21 +63,6 @@ My research is in the areas of Artificial Intelligence in Education (AIED), Ubiq
  Tackling truth decay by creating personalised interfaces that enable people make judge the trustworthiness of online science news.
  E-textbook of the future.
  Simple ambient appliance computing to help people tackle long term personal goals for health and wellness.</description>
-    </item>
-    
-    <item>
-      <title>Recent Posts</title>
-      <link>/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/home/posts/</guid>
-      <description>TODO - newer stuff
- Jan 2019: [What happens when technology has a human face? | Mike Seymour | TEDxSydneySalon) (https://www.youtube.com/watch?time_continue=1&amp;amp;v=FPm3ZDKnS6A)
- Nov 2018: 2018 ACM Distinguished Member, For Outstanding Scientific Contributions to Computing
- 2018: Cruiser Interactive moves to Barangaroo
- Sep 2017: Harnessing long term personal data
- May, 2017: Virtual Reality games - for fun and fitness
- Australian Broadcasting Commission Re-release of video The World Wide Web Explained (1996)</description>
     </item>
     
     <item>
