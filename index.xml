@@ -10,6 +10,33 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Foundations for Systematic Evaluation and Benchmarking of a Mobile Food Logger in a Large-scale Nutrition Study</title>
+      <link>/publication/2020_imwut_nutrition/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2020_imwut_nutrition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Embedding a VR Game Studio in a Sedentary Workplace: Use, Experience and Exercise Benefits.</title>
+      <link>/publication/2020_chi_yoo_vr_studio/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2020_chi_yoo_vr_studio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From data to personal user models for life‐long, life‐wide learners</title>
+      <link>/publication/2020_bjet_puml/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2020_bjet_puml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>How Does a Nation Walk?: Interpreting Large-Scale Step Count Activity with Weekly Streak Patterns</title>
       <link>/publication/2019_lim_nation_walk_imwut/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
@@ -26,6 +53,24 @@
       <guid>/projects/deep-learning/</guid>
       <description>&lt;p&gt;Long term user modelling with user control based on the Accretion-Resolution representation and user interfaces of the Personis user modelling framework. Key for user control are effective interfaces to large user models, VlUM and SIV (Hewlett Packard Scholarship) support for privacy control&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Comparing a Single-Touch Whiteboard and a Multi-Touch Tabletop for Collaboration in School Museum Visits</title>
+      <link>/publication/2018_clayphan_imwut_museum/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018_clayphan_imwut_museum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defining Adherence: Making Sense of Physical Activity Tracker Data</title>
+      <link>/publication/2018_tang_imwut_adherence/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018_tang_imwut_adherence/</guid>
+      <description></description>
     </item>
     
     <item>
