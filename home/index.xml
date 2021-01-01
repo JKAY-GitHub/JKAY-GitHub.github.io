@@ -19,16 +19,7 @@
       
       <guid>/home/about/</guid>
       <description>I lead the multi-disciplinary Human Centred Technology Research Cluster at the University of Sydney, Australia.
-My research is in the areas of Artificial Intelligence in Education (AIED), Ubiquitous Computing (Ubicomp) and Human Computer Interaction (HCI). A core focus of my work has been to create system that enable people to harness their personal data for lifelong and lide-wide learning. This means creating systems and interfaces that for user models so thay people can scrutinize their model and its use.</description>
-    </item>
-    
-    <item>
-      <title>Selected recent Publications</title>
-      <link>/home/publications_selected/</link>
-      <pubDate>Sun, 06 Jan 2019 00:00:00 +1100</pubDate>
-      
-      <guid>/home/publications_selected/</guid>
-      <description></description>
+My research is in the areas of Artificial Intelligence in Education (AIED), Ubiquitous Computing (Ubicomp) and Human Computer Interaction (HCI). A core driver has been to create systems that enable people to harness their personal data for lifelong and life-wide learning. My research creates systems and interfaces for user models that people can scrutinise, to really see, understand and control their personal data and its use.</description>
     </item>
     
     <item>
@@ -38,6 +29,15 @@ My research is in the areas of Artificial Intelligence in Education (AIED), Ubiq
       
       <guid>/home/pubs/</guid>
       <description>For a full list of my publications, see Google scholar and dblp.</description>
+    </item>
+    
+    <item>
+      <title>Selected recent Publications</title>
+      <link>/home/publications_selected/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +1100</pubDate>
+      
+      <guid>/home/publications_selected/</guid>
+      <description></description>
     </item>
     
     <item>
