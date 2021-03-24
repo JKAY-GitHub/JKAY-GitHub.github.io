@@ -49,6 +49,7 @@ Also see Available papers.</description>
       <guid>/home/posts/</guid>
       <description>14-18 Jun, 2021, Invited keynote at the 2021 conference on Artificial Intelligence in Education, AIED 2021, Utrecht/Virtual, Netherlands, Theme: Mind the Gap: AIED for Equity and Inclusion.
  6–11 Jun, 2021, Dagstuhl Seminar Transparency by Design. Organizers: Casey Dugan, IBM Research – Cambridge, US; Judy Kay, The University of Sydney, AU; Tsvi Kuflik, Haifa University, IL; Michael Rovatsos, University of Edinburgh, GB.
+ 8-13 May, 2021, CHI 2021
  14-19 Mar, 2021, Invited keynote at ACM SIGIR Conference on Human Information Interaction and Retrieval (CHIIR’21) The Case for Scrutable, Personal, Long-Term User Models for Information Retrieval, Abstract</description>
     </item>
     
@@ -59,11 +60,10 @@ Also see Available papers.</description>
       
       <guid>/home/projects/</guid>
       <description>My current projects are:
- Lifelong and lifewide user modelling: creating interfaces and infrastructure for people to control and harness their personal long term data for their learning.
- Dashboards for long term personal data.
- Tackling truth decay by creating personalised interfaces that enable people make judge the trustworthiness of online science news.
- E-textbook of the future.
- Ambient appliances and personal sensors to help people tackle long term personal goals for health and wellness.</description>
+ Scrutable user modelling. This has been a core focus of my research. Key publications:  First paper on accretion/resolution architecture: The um toolkit for cooperative user modelling
+Thesis - my first use of term &amp;ldquo;scrutable&amp;rdquo;: A scrutable user modelling shell for user- adapted interaction
+Summary of first fifteen years work: Creating personalized systems that people can scrutinize and control: Drivers, principles and experience
+ Lifelong and lifewide user modelling: creating interfaces and infrastructure for people to control and harness their personal long term data for their learning.</description>
     </item>
     
     <item>
