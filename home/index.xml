@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2021 Judy Kay</copyright>
-    <lastBuildDate>Sat, 26 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -92,15 +92,16 @@ My current projects are:
     <item>
       <title>Students</title>
       <link>/home/students/</link>
-      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/home/students/</guid>
       <description>Current research students:
  Samine Hadadi - starting March, 2021
- Alan Yung - Exploring support for oncologists with the data that drives decisions in diagnosis and treatments (Co-supervisor with: Tim Shaw)
  Bernard Bucalon - Visualising Performance Data (Co-supervisors: Tim Shaw, Kerri Brown)
- Josh Burridge - The Investigation and Development of Non-Traditional Laboratories in Science and Engineering Education (Co-supervisor with: David Lowe , Keith Willey)
- Ying An Chen - Evaluation of Benefits Using a Third-Person in Virtual Reality Educational Games (Co-supervisors: Marcus Carter, Soojeong Yoo)</description>
+ Ying An Chen - Evaluation of Benefits Using a Third-Person in Virtual Reality Educational Games (Co-supervisors: Marcus Carter, Soojeong Yoo)
+ Waheeb Yaqub - Design of interfaces to overcome junk science news (Co-supervisor: Micah Goldwater)
+  I am also co-supervising:
+ Alan Yung - Exploring support for oncologists with the data that drives decisions in diagnosis and treatments (with: Tim Shaw)</description>
     </item>
     
     <item>
