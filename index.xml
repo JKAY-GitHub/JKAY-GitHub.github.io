@@ -10,14 +10,56 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Publications</title>
+      <title>Selected Publications</title>
       <link>/pubs-all/</link>
       <pubDate>Mon, 01 Mar 2021 14:57:11 +1100</pubDate>
       
       <guid>/pubs-all/</guid>
       <description>
 
-&lt;h2 id=&#34;coming-soon&#34;&gt;Coming soon&lt;/h2&gt;
+&lt;h1 id=&#34;2021&#34;&gt;2021&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1145/3408877.3432457&#34; target=&#34;_blank&#34;&gt;A Data-centric Computing Curriculum for a Data Science Major&lt;/a&gt;,&lt;br /&gt;
+Alan Fekete, Judy Kay and Uwe Röhm,&lt;br /&gt;
+Proceedings of the 52nd ACM Technical Symposium on Computer Science Education,
+Association for Computing Machinery, pp 865–871&lt;br /&gt;
+&lt;a href=&#34;https://www.dropbox.com/s/tgnxtnsbzrfouhi/2021_SIGCSE_Fekete_datacurriculum.pdf?dl=0&#34; target=&#34;_blank&#34;&gt;preprint&lt;/a&gt;,
+&lt;a href=&#34;https://doi.org/10.1145/3408877.3432457&#34; target=&#34;_blank&#34;&gt;DOI&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;2020&#34;&gt;2020&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1145/3397327&#34; target=&#34;_blank&#34;&gt;Foundations for Systematic Evaluation and Benchmarking of a Mobile Food Logger in a Large-scale Nutrition Study&lt;/a&gt;,&lt;br /&gt;
+Jisu Jung, Lyndal Wellard-Cole, Colin Cai, Irena Koprinska, Kalina Yacef, Margaret Allman-Farinelli and Judy Kay,&lt;br /&gt;
+ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 4(2).&lt;br /&gt;
+&lt;a href=&#34;https://www.dropbox.com/s/csr2q2p6xnaz068/2020_IMWUT_Jung_nutrition.pdf?dl=0&#34; target=&#34;_blank&#34;&gt;preprint&lt;/a&gt;,
+&lt;a href=&#34;https://doi.org/10.1145/3397327&#34; target=&#34;_blank&#34;&gt;DOI&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1145/3313831.3376371&#34; target=&#34;_blank&#34;&gt;Embedding a VR Game Studio in a Sedentary Workplace: Use, Experience and Exercise Benefits.&lt;/a&gt;,&lt;br /&gt;
+Soojeong Yoo, Phillip Gough and Judy Kay,&lt;br /&gt;
+Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI), April 2020, 14 pages.&lt;br /&gt;
+&lt;a href=&#34;https://www.dropbox.com/s/csr2q2p6xnaz068/2020_IMWUT_Jung_nutrition.pdf?dl=0&#34; target=&#34;_blank&#34;&gt;preprint&lt;/a&gt;,
+&lt;a href=&#34;https://doi.org/10.1145/3313831.3376371&#34; target=&#34;_blank&#34;&gt;DOI&lt;/a&gt;,
+&lt;a href=&#34;https://dl.acm.org/doi/abs/10.1145/3313831.3376371&#34; target=&#34;_blank&#34;&gt;video&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;2019&#34;&gt;2019&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1111/bjet.12878&#34; target=&#34;_blank&#34;&gt;From data to personal user models for life‐long, life‐wide learners&lt;/a&gt;,&lt;br /&gt;
+Judy Kay and Bob Kummerfeld,&lt;br /&gt;
+British Journal of Educational Technology, Sept 2019, 50(6) pp 2871-2884.&lt;br /&gt;
+&lt;a href=&#34;https://www.dropbox.com/s/se10ktr0pfmfwkw/2019_BJET_PUML.pdf?dl=0&#34; target=&#34;_blank&#34;&gt;preprint&lt;/a&gt;,
+&lt;a href=&#34;https://doi.org/10.1111/bjet.12878&#34; target=&#34;_blank&#34;&gt;DOI&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1145/3328928&#34; target=&#34;_blank&#34;&gt;How Does a Nation Walk?: Interpreting Large-Scale Step Count Activity with Weekly Streak Patterns&lt;/a&gt;&lt;br /&gt;
+Brian Y. Lim, Judy Kay, Weilong Liu&lt;br /&gt;
+ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 3(2).&lt;br /&gt;
+&lt;a href=&#34;https://www.dropbox.com/s/wqz4npvkki2bdsy/2019_IMWUT_Lim_Nation_Walk.pdf?dl=0&#34; target=&#34;_blank&#34;&gt;preprint&lt;/a&gt;,
+&lt;a href=&#34;https://doi.org/10.1145/3328928&#34; target=&#34;_blank&#34;&gt;DOI&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
