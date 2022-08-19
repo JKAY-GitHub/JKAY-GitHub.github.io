@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2021 Judy Kay</copyright>
-    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Apr 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Grand challenges for pervasive technology to transform pervasive education.</title>
+      <link>/publication/2022_ieee_pervasive-gcs/</link>
+      <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2022_ieee_pervasive-gcs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Foundations for Systematic Evaluation and Benchmarking of a Mobile Food Logger in a Large-scale Nutrition Study</title>
