@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2021 Judy Kay</copyright>
-    <lastBuildDate>Sat, 16 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 May 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Scrutable AIED</title>
+      <link>/publication/2023_scutability_aied/</link>
+      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2023_scutability_aied/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Grand challenges for pervasive technology to transform pervasive education.</title>
